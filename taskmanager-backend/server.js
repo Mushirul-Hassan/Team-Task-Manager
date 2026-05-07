@@ -13,6 +13,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:3000',
+     'https://team-task-manager-ntkh.vercel.app',
     'https://team-task-manager-omega-lemon.vercel.app'
   ],
   credentials: true
