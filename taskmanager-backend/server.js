@@ -10,12 +10,13 @@ const userRoutes = require("./routes/userRoutes");
 
 const app = express();
 
-app.use(
-  cors({
-    origin: "http://localhost:3000",
-    credentials: true,
-  }),
-);
+app.use(cors({
+  origin: [
+    'http://localhost:3000',
+    'team-task-manager-production-142c.up.railway.app'
+  ],
+  credentials: true
+}));
 app.use(express.json());
 
 connectDB();
