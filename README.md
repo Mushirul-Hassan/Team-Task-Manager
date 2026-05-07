@@ -277,10 +277,8 @@ Frontend runs at `http://localhost:3000`
 ## 👤 Author
 
 **Mushirul**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/Mushirul-Hassan)
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
