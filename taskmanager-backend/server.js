@@ -13,7 +13,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'team-task-manager-production-142c.up.railway.app'
+    'team-task-manager-ntkh.vercel.app'
   ],
   credentials: true
 }));
