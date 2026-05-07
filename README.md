@@ -277,7 +277,7 @@ Frontend runs at `http://localhost:3000`
 ## 👤 Author
 
 **Mushirul**
-- GitHub: [@YOUR_USERNAME](https://github.com/Mushirul-Hassan)
+- GitHub: [@Mushirul-Hassan](https://github.com/Mushirul-Hassan)
 
 ---
 
